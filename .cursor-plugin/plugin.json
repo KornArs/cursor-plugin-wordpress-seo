@@ -9,5 +9,9 @@
   },
   "license": "MIT",
   "keywords": ["cursor", "wordpress", "seo", "geo", "content", "publishing", "mcp"],
-  "logo": "assets/logo.svg"
+  "logo": "assets/logo.svg",
+  "homepage": "https://github.com/KornArs/cursor-plugin-wordpress-seo",
+  "repository": "https://github.com/KornArs/cursor-plugin-wordpress-seo",
+  "skills": "./skills/",
+  "rules": "./rules/"
 }
