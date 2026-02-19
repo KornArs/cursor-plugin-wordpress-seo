@@ -1,0 +1,14 @@
+---
+description: Guidance for WordPress post creation and SEO/GEO optimization workflow
+globs: ["*.md", "*.mdx", "**/posts/**"]
+---
+
+# WordPress SEO Publisher Rules
+
+When creating or editing content for WordPress:
+
+1. **Structure**: Use one H1, logical H2/H3 hierarchy. Aim for 300+ words for SEO.
+2. **Keywords**: Include focus keywords in title, first paragraph, and 1–2 subheadings. Avoid stuffing.
+3. **GEO**: For local content, mention target location (city/region) in title or first 100 words.
+4. **Before publish**: Run `python scripts/analyze-seo-geo.py <file> --keywords "..." --location "..."` and address recommendations.
+5. **API**: Use WordPress REST API `/wp-json/wp/v2/posts` with Application Password auth for publishing.

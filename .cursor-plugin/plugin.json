@@ -1,0 +1,13 @@
+{
+  "name": "wordpress-seo-publisher",
+  "displayName": "WordPress SEO Publisher",
+  "version": "0.1.0",
+  "description": "Create posts, publish to WordPress, and analyze content for SEO & GEO. Integrates with WordPress REST API and provides SEO/GEO analysis tools.",
+  "author": {
+    "name": "WordPress SEO Publisher",
+    "email": "plugins@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["cursor", "wordpress", "seo", "geo", "content", "publishing", "mcp"],
+  "logo": "assets/logo.svg"
+}

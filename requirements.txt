@@ -1,0 +1,2 @@
+# SEO & GEO analysis script - stdlib only, no external deps
+# Add here if you extend analyze-seo-geo.py with new libraries
